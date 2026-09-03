@@ -1,4 +1,4 @@
-Compilations of codes that were made during school. 
+Compilations of codes that were made during school. "/n"
 These codes were made thanks to:
 - Activities needed in School
 
