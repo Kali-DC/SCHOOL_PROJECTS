@@ -1,0 +1,1 @@
+An output only for practcing of using setw, setprecision with header <iomanip>
