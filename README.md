@@ -4,6 +4,9 @@ A collection of C++ programming exercises and projects completed during my first
 
 ## Contents
 
+### Student Information System
+- Simple C++ information management project
+
 ### Activity 2
 - Goal 3
 - Goal 4
@@ -23,9 +26,6 @@ A collection of C++ programming exercises and projects completed during my first
 - String Concatenation
 - String Comparison
 - String Copying
-
-### Student Information System
-- Simple C++ information management project
 
 ## Technologies
 - C++
