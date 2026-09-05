@@ -18,6 +18,12 @@ A collection of C++ programming exercises and projects completed during my first
 - Bitwise Operators
 - Precedence and Associativity
 
+### Activity 4
+- String Handling
+- String Concatenation
+- String Comparison
+- String Copying
+
 ### Student Information System
 - Simple C++ information management project
 
