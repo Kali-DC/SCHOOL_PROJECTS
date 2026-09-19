@@ -4,6 +4,9 @@ A collection of C++ programming exercises and projects completed during my first
 
 ## Contents
 
+### Student Information System
+- Simple C++ information management project
+
 ### Activity 2
 - Goal 3
 - Goal 4
@@ -18,8 +21,11 @@ A collection of C++ programming exercises and projects completed during my first
 - Bitwise Operators
 - Precedence and Associativity
 
-### Student Information System
-- Simple C++ information management project
+### Activity 4
+- String Handling
+- String Concatenation
+- String Comparison
+- String Copying
 
 ## Technologies
 - C++
