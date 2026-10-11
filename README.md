@@ -33,6 +33,16 @@ A collection of C++ programming exercises and projects completed during my first
 - Explicit Typecasting
 - Implicit vs Explicit Typecasting
 
+### Activity 7
+- Relational Operators
+- Boolean Operators
+- If Statement
+- If Statement 2
+- If-Else Statement
+- If-Else If-Else Statement
+- Switch Statement
+- Nested Decisions
+
 ## Technologies
 - C++
 - Visual Studio Code
