@@ -27,6 +27,12 @@ A collection of C++ programming exercises and projects completed during my first
 - String Comparison
 - String Copying
 
+### Activity 5
+- Implicit Typecasting
+- Static Cast
+- Explicit Typecasting
+- Implicit vs Explicit Typecasting
+
 ## Technologies
 - C++
 - Visual Studio Code
